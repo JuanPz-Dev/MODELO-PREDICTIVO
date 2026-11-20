@@ -5,3 +5,4 @@ pandas==3.1.0
 python-dotenv==1.2.4
 scikit-learn==1.9.1
 uvicorn[standard]==0.54.0
+imbalanced-learn==0.14.2
