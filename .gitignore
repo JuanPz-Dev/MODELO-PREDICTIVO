@@ -1,2 +1,11 @@
 # Entorno virtual de python
 .venv
+
+# Variables de entornos
+.env
+__pycache__
+.env.*
+!.env.example
+*.pyc
+data/dataset_demanda_sin_lote.csv
+data/servicios_aprobados.csv
